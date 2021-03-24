@@ -1,4 +1,4 @@
-# Hi there, I'm Isaac web developer in 🌲🔥 RedTree
+# Hi there, I'm Isaac .NET Developer 
 
 ## If you see an opportunity take it.
 - 🚀 I will program until the day that I cannot press a key.
@@ -16,18 +16,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/plasticine/100/000000/flow-chart.png" />
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="Vuejs" width="35px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
-<img align="left" alt="nodejs" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="npm" width="35px" src="https://img.icons8.com/color/48/000000/npm.png" />
-<img align="left" alt="postgreSQL" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="mongoDB" width="35px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
+<br /> 
 
+<img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="nodejs" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img align="left" alt="visual_studio" width="35px" src="https://img.icons8.com/fluent/50/4a90e2/visual-studio-2019.png" />
+<img align="left" alt="C_Sharp" width="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<br /> 
+
+<img align="left" alt="npm" width="35px" src="https://img.icons8.com/color/48/000000/npm.png" />
+<img align="left" alt="windows" width="35px" src="https://img.icons8.com/color/48/000000/windows-10.png" />
+<img align="left" alt="sql_server" width="35px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img align="left" alt="mysql" width="35px" src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png"/>
+<br /> 
+
+<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 
 <br />
